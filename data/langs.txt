@@ -1,0 +1,50 @@
+Python
+C
+Java
+C++
+C#
+Visual Basic
+JavaScript
+Assembly language
+SQL
+PHP
+R
+Delphi/Object Pascal
+Go
+Swift
+Ruby
+Classic Visual Basic
+Objective-C
+Perl
+Lua
+MATLAB
+SAS
+Prolog
+(Visual) FoxPro
+Scratch
+COBOL
+Julia
+Kotlin
+Rust
+Ada
+Lisp
+Fortran
+Groovy
+VBScript
+PL/SQL
+D
+Scala
+Haskell
+Dart
+Transact-SQL
+PowerShell
+Simulink
+Awk
+TypeScript
+ABAP
+RPG
+LabVIEW
+Logo
+Bash
+Hack
+Racket
